@@ -8,7 +8,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -308,6 +308,10 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   height: 800px;
   width: 100%;
+}
+
+.hero__heading {
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
